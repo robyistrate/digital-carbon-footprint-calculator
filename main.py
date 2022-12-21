@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 
 header = st.container()
 user_input = st.container()
@@ -109,7 +110,7 @@ with user_input:
 
     # Video conferencing setting
     st.subheader('What video conferencing setting do you use?')
-    st.markdown('Introduce the percentage of time that you watch video at each streaming resolution:')
+    st.markdown('Introduce the percentage of time that you join online meetings with each setting:')
 
     c1, c2, c3, c4 = st.columns(4)
     conferencing_only_audio = c1.slider('Audio only', min_value=0, max_value=100, value=50, step=1, format="%d%%")
@@ -169,18 +170,49 @@ video_streaming_1080p_carbon_footprint = video_streaming_time * video_1080p/100 
 
 video_streaming_4k_carbon_footprint = video_streaming_time * video_4k/100 * (lca_data_location[lca_data_location['Name'] == 'video streaming, 4K, television 4K']['Carbon footprint'].values[0])
 
+music_streaming_carbon_footprint = music_streaming_time * (music_smartphone/100 * lca_data_location[lca_data_location['Name'] == 'music streaming, standard quality, smartphone']['Carbon footprint'].values[0] + 
+                                                   music_tablet/100 * lca_data_location[lca_data_location['Name'] == 'music streaming, standard quality, tablet']['Carbon footprint'].values[0] + 
+                                                   music_laptop/100 * lca_data_location[lca_data_location['Name'] == 'music streaming, standard quality, laptop']['Carbon footprint'].values[0] + 
+                                                   music_desktop/100 * lca_data_location[lca_data_location['Name'] == 'music streaming, standard quality, desktop computer']['Carbon footprint'].values[0])
+
+
 conferencing_only_audio_carbon_footprint = video_conferencing_time * conferencing_only_audio/100 * (conferencing_laptop/100 * lca_data_location[lca_data_location['Name'] == 'video conferencing, audio only, laptop']['Carbon footprint'].values[0] + 
                                                                                                 conferencing_desktop/100 * lca_data_location[lca_data_location['Name'] == 'video conferencing, audio only, desktop computer']['Carbon footprint'].values[0])
 conferencing_audio_and_video_carbon_footprint = video_conferencing_time * conferencing_audio_and_video/100 * (conferencing_laptop/100 * lca_data_location[lca_data_location['Name'] == 'video conferencing, video standard quality, laptop']['Carbon footprint'].values[0] + 
                                                                                                 conferencing_desktop/100 * lca_data_location[lca_data_location['Name'] == 'video conferencing, video standard quality, desktop computer']['Carbon footprint'].values[0])
 
-carbon_footprint_user = [web_surfing_carbon_footprint,
-                        social_media_carbon_footprint,
-                        video_streaming_480p_carbon_footprint, video_streaming_720p_carbon_footprint, video_streaming_1080p_carbon_footprint, video_streaming_1080p_carbon_footprint, video_streaming_4k_carbon_footprint,
-                        conferencing_only_audio_carbon_footprint]
+carbon_footprint_user = {
+                         'Web surfing': web_surfing_carbon_footprint,
+                         'Social media': social_media_carbon_footprint,
+                         'Video streaming': video_streaming_480p_carbon_footprint + video_streaming_720p_carbon_footprint + video_streaming_1080p_carbon_footprint + video_streaming_4k_carbon_footprint,
+                         'Music streaming': music_streaming_carbon_footprint,
+                         'Video conferencing': conferencing_only_audio_carbon_footprint + conferencing_audio_and_video_carbon_footprint,
+                       }
+
+fig_length = {1:   3.50394,    # 1 column
+              1.5: 5.35433,    # 1.5 columns
+              2:   7.20472}    # 2 columns
+fig_height = 9.72441 # maxium height
+
+fontsize_title = 9
+fontsize_label = 8
+fontsize_legend = 8
+fontsize_axs = 8
+
+spineline_width = 0.6
 
 if display_results:
-    with user_input:
+    with results:
         st.markdown("""---""")
         st.subheader('Your digital carbon footprint is:')
-        st.subheader(str(round(sum(carbon_footprint_user))) + ' kg CO$_2$-eq per year')
+        st.subheader(str(round(sum(carbon_footprint_user.values()))) + ' kg CO$_2$-eq per year')
+
+      #  c1, c2 = st.columns(2)
+      #  plt.rcParams['figure.facecolor'] = 'None'
+      #  fig, axs = plt.subplots(1, 1, figsize=(fig_length[1], fig_height*0.5))
+      #  pd.DataFrame(carbon_footprint_user, index=['Impact']).T.plot.pie(ax=axs, y='Impact', fontsize=fontsize_axs, legend=False)
+
+      #  c1.pyplot(fig)
+
+       # st.bar_chart(pd.DataFrame(carbon_footprint_user, index=['Impact']))
+    
