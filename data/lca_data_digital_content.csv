@@ -1,2 +1,799 @@
-col_a	col_b
-test_1	test_2
+Name,Location,Carbon footprint,CO2 emissions
+"music streaming, standard quality, desktop computer",Denmark,0.1043985076509152,0.09272296267048481
+"social media, smartphone",Norway,0.01728517190076007,0.015301572795682778
+"music streaming, standard quality, laptop",Russia,0.05806989693349916,0.05115887060731623
+"web surfing, desktop computer",Italy,0.11941597669099067,0.10591945579484043
+"video streaming, 1080p, smartphone",Russia,0.11295453656913133,0.10151464384346123
+"music streaming, standard quality, tablet",Europe,0.0402333292082815,0.0351422909372691
+"social media, smartphone",Global,0.027054041141278032,0.02415574463448706
+"video streaming, 720p, laptop",Germany,0.09685290763972065,0.08749206398870285
+"music streaming, low quality, laptop",Canada,0.03746603083030503,0.03323482015838905
+"music streaming, low quality, laptop",Italy,0.04427219185661861,0.0390221508172803
+"music streaming, high quality, tablet",China,0.05295715858074657,0.04528361887717138
+"music streaming, standard quality, smartphone",South Africa,0.021974688317869796,0.020476060349011293
+"music streaming, high quality, laptop",Denmark,0.04358527362205412,0.03851312883180966
+"social media, smartphone",Denmark,0.02106175867486872,0.018781342670679144
+"music streaming, high quality, laptop",Italy,0.04745559992356702,0.041901022931481305
+"video conferencing, audio only, laptop",Denmark,0.04079819579783538,0.035990480117244816
+"video conferencing, video high quality, laptop",Germany,0.1013454214500755,0.09157589203225229
+"music streaming, low quality, desktop computer",Switzerland,0.0752777533257294,0.06597920539006359
+"music streaming, high quality, desktop computer",Spain,0.11064089417683265,0.09901910391321629
+"web surfing, desktop computer",Europe,0.11860796993206602,0.10685245319379748
+"music streaming, standard quality, laptop",Germany,0.05046073969937508,0.04532021000371226
+"video streaming, 480p, desktop computer",France,0.09985512764254778,0.08855562502032277
+"music streaming, low quality, smartphone",Australia,0.01837744135930422,0.016889678923172398
+"web surfing, desktop computer",Denmark,0.10610937504043959,0.09427150838509343
+"social media, tablet",Global,0.055339752694375716,0.04858683075485688
+"music streaming, low quality, smartphone",Europe,0.012070825340554616,0.010765044345451386
+"web surfing, tablet",United States,0.04380890069352616,0.03833346823734785
+"video streaming, 480p, tablet",Europe,0.06222673847683748,0.055104508564265284
+"video conferencing, video high quality, laptop",Norway,0.07701680934607125,0.06857016798272737
+"video streaming, 720p, tablet",Europe,0.08498616701540371,0.07576200008844114
+"music streaming, standard quality, tablet",Poland,0.0502763912774297,0.044628510119580786
+"video conferencing, video standard quality, laptop",Poland,0.09038808807875903,0.08228080945680041
+"video conferencing, video high quality, laptop",France,0.07985586055903682,0.07132214518505184
+"video streaming, 1080p, desktop computer",Italy,0.20531145633245593,0.1835978733508961
+"web surfing, smartphone",Russia,0.019530203183371172,0.017230436706744647
+"music streaming, low quality, tablet",Norway,0.03334042660622126,0.0286701697501562
+"video streaming, 1080p, desktop computer",China,0.2972472980385224,0.25675593156544657
+"music streaming, high quality, desktop computer",South Africa,0.20827549745334756,0.19559733164955606
+"video streaming, 720p, laptop",Denmark,0.08523442860690535,0.0762107440086299
+"video conferencing, video high quality, laptop",Russia,0.1115448043293681,0.09940208528415895
+"music streaming, high quality, laptop",South Africa,0.07320259653821162,0.06789391554041894
+"video conferencing, audio only, desktop computer",Europe,0.11603732214247688,0.10451921645039265
+"video streaming, 1080p, television 1080p",Germany,0.1539401242892786,0.1397435383526341
+"video streaming, 1080p, television 1080p",Canada,0.13166045042604924,0.11897628130538317
+"video conferencing, video standard quality, laptop",Spain,0.06255977849359479,0.05589834169346963
+"video streaming, 1080p, smartphone",Australia,0.11862203643660449,0.10861256893464921
+"social media, tablet",Spain,0.04831624376968817,0.04238900523570127
+"social media, smartphone",South Africa,0.032942072377093894,0.030566775267155403
+"video streaming, 720p, television 720p",United Kingdom,0.09428311276532414,0.08521876448386534
+"music streaming, standard quality, laptop",Spain,0.04281260229903573,0.03799893429700146
+"web surfing, smartphone",France,0.011151947332857152,0.009806367159886158
+"music streaming, high quality, smartphone",Switzerland,0.011091915876146923,0.009717737304246249
+"video streaming, 480p, tablet",Canada,0.058198237398345946,0.05139666495009312
+"web surfing, tablet",India,0.06033424549675296,0.05455441347607378
+"social media, laptop",China,0.0787178154916767,0.06756874574205897
+"video streaming, 1080p, smartphone",China,0.12231788592486798,0.10798454973719313
+"video conferencing, audio only, laptop",United States,0.04823660934453928,0.04297933383265868
+"video streaming, 4K, television 4K",Poland,0.4558234904475124,0.41752327973329023
+"video streaming, 720p, laptop",Global,0.10453598509626018,0.09352206464186734
+"video streaming, 1080p, desktop computer",Russia,0.2569815177991622,0.22893300207849535
+"video streaming, 4K, television 4K",Europe,0.3552445894241247,0.3225210290596754
+"video streaming, 1080p, smartphone",Spain,0.09847369619126908,0.08902442577675068
+"video streaming, 480p, desktop computer",Italy,0.139687429776546,0.12425167075912598
+"video conferencing, video high quality, desktop computer",China,0.2527576479108879,0.21717408460623555
+"video streaming, 480p, desktop computer",Brazil,0.12714939813283407,0.11035966603760744
+"music streaming, standard quality, desktop computer",Brazil,0.10564786789458736,0.09102241790129703
+"video streaming, 4K, television 4K",Brazil,0.34054167766823723,0.3038398682346297
+"video streaming, 720p, desktop computer",Denmark,0.14803886221093998,0.13222285871836817
+"video streaming, 480p, tablet",Russia,0.07006148067371604,0.06169249006733489
+"video streaming, 1080p, smartphone",Poland,0.12165790199356008,0.11100407784025414
+"music streaming, standard quality, smartphone",Global,0.017021417332565465,0.015082819255871396
+"music streaming, standard quality, desktop computer",United States,0.1303913432305176,0.11714485375976726
+"video streaming, 4K, television 4K",Norway,0.29657843552002655,0.2670736078387917
+"music streaming, low quality, desktop computer",United States,0.12922429867414387,0.11608650445974479
+"video streaming, 480p, tablet",Brazil,0.060266735875290904,0.05261417709625943
+"music streaming, high quality, desktop computer",China,0.19828867743542283,0.1687137697419822
+"social media, tablet",United States,0.05157145781571566,0.04537304256361097
+"video streaming, 720p, smartphone",United Kingdom,0.056070251144078986,0.05074210769187661
+"video streaming, 720p, laptop",Spain,0.0868311331070435,0.07789859428705148
+"video streaming, 480p, smartphone",Australia,0.044532794563760095,0.04082158850227431
+"web surfing, laptop",Canada,0.04022396842553391,0.03573635438780018
+"music streaming, standard quality, smartphone",Russia,0.01761887297246731,0.015506100598963124
+"video conferencing, audio only, desktop computer",Germany,0.1343608039209559,0.12186819150041041
+"video conferencing, video high quality, desktop computer",Switzerland,0.12143792241666301,0.10772107544044114
+"social media, tablet",China,0.06137546021842761,0.05277326930425336
+"social media, laptop",Global,0.06635671952886674,0.0589949425143047
+"video conferencing, video high quality, desktop computer",Europe,0.16594009153347342,0.1498132375186543
+"video streaming, 480p, television 720p",United States,0.08006455074089254,0.07209032745531507
+"video conferencing, audio only, laptop",Brazil,0.041155727323504684,0.03550383235581984
+"video streaming, 1080p, desktop computer",India,0.3645731431818597,0.34029766696485503
+"video streaming, 1080p, tablet",United States,0.13188370604086408,0.11820523326970131
+"web surfing, desktop computer",India,0.25547161513785044,0.23978649492019033
+"music streaming, standard quality, laptop",China,0.06793530364734464,0.057975689100034915
+"web surfing, laptop",United States,0.05087671512718893,0.04537354756836604
+"music streaming, low quality, laptop",Poland,0.0659297394240635,0.05996151576441064
+"video streaming, 720p, tablet",China,0.10240843335062208,0.0892797569511656
+"music streaming, standard quality, desktop computer",Norway,0.07214189020781452,0.06300152043663702
+"music streaming, low quality, desktop computer",Global,0.15435567389360752,0.13751978383696858
+"video conferencing, audio only, laptop",Spain,0.04200982717087232,0.0372712758750997
+"video streaming, 1080p, laptop",Norway,0.11201333136115825,0.1002060499707655
+"video streaming, 480p, tablet",Poland,0.07563462059839056,0.06776898357197955
+"music streaming, high quality, smartphone",India,0.02923794981719368,0.027236993775234614
+"video conferencing, video high quality, laptop",Global,0.10920471666155296,0.09774419575256475
+"video streaming, 480p, laptop",Canada,0.059532560155017046,0.05324984099336573
+"video streaming, 480p, laptop",Denmark,0.06304076269264001,0.056122742768191874
+"web surfing, smartphone",Italy,0.015043771644003799,0.013294057581362002
+"music streaming, low quality, smartphone",United States,0.013373497278833673,0.011908656667851764
+"video streaming, 720p, tablet",Australia,0.09942721471857813,0.08978634211884695
+"video streaming, 720p, laptop",Italy,0.0902351164365529,0.0805881012319059
+"video conferencing, audio only, laptop",Norway,0.031567265242959996,0.027485044922889966
+"video conferencing, video standard quality, laptop",Australia,0.08674409840327271,0.07941024961237932
+"music streaming, high quality, tablet",Norway,0.036235101720646486,0.0312868754980642
+"video streaming, 720p, laptop",India,0.14136550969574843,0.13089600785788988
+"video streaming, 720p, tablet",Italy,0.08516357959858782,0.07555714353640765
+"music streaming, high quality, laptop",Norway,0.03417033788776335,0.029838150153226505
+"video streaming, 720p, desktop computer",Australia,0.23300115967395954,0.21521440500570155
+"music streaming, low quality, desktop computer",Italy,0.1165205090485108,0.10330097871675184
+"video streaming, 1080p, laptop",United States,0.1389515204745269,0.12524531260071964
+"music streaming, high quality, desktop computer",Europe,0.11889544836717397,0.1071133816844475
+"music streaming, low quality, smartphone",Canada,0.009854630226826165,0.008725252189487874
+"social media, smartphone",Europe,0.022519980940245658,0.02024917277467119
+"music streaming, high quality, smartphone",Italy,0.01533171206847245,0.013554452617474545
+"video streaming, 480p, tablet",France,0.055693379120726694,0.04896074886857766
+"video conferencing, audio only, laptop",Poland,0.06629889776311959,0.060298388605039055
+"video streaming, 480p, smartphone",United Kingdom,0.033767880492735346,0.030489501582454222
+"music streaming, low quality, tablet",Denmark,0.03749342515021847,0.032496767704526267
+"video conferencing, video standard quality, laptop",South Africa,0.0944413705992252,0.08743498505191412
+"video streaming, 1080p, television 1080p",South Africa,0.19198221217064718,0.1778306512589686
+"music streaming, standard quality, laptop",Brazil,0.041953640722652584,0.036221430090476146
+"music streaming, standard quality, smartphone",Poland,0.02075708194134592,0.018927745609378367
+"video streaming, 1080p, television 1080p",United Kingdom,0.13864268381335063,0.12558990752640756
+"video streaming, 1080p, television 1080p",United States,0.15134767409242697,0.13678667171224548
+"music streaming, low quality, tablet",China,0.04927727624791278,0.04200967676011126
+"social media, laptop",United States,0.058639272249378434,0.05241312189462917
+"video conferencing, video standard quality, desktop computer",Italy,0.13776753415173376,0.12251543906648388
+"video streaming, 480p, desktop computer",Russia,0.18560545749114463,0.16453998546725046
+"video streaming, 1080p, smartphone",Canada,0.0944281505928323,0.08543603653187468
+"music streaming, low quality, laptop",United States,0.04790778416521753,0.04268113450816476
+"video streaming, 480p, laptop",Global,0.08001742706215659,0.07134889721566577
+"video streaming, 480p, smartphone",Global,0.04071474867456797,0.036509699335848224
+"video streaming, 720p, smartphone",Europe,0.05796000417193035,0.05241614824527953
+"social media, smartphone",Switzerland,0.017774596759550062,0.015760774028692408
+"social media, desktop computer",South Africa,0.2168381355955334,0.20347552210713887
+"music streaming, high quality, desktop computer",France,0.08139105151034894,0.07184546065626772
+"music streaming, standard quality, tablet",Brazil,0.038765205637044095,0.03327692895994893
+"music streaming, high quality, tablet",United States,0.044104146694160434,0.03860121585366564
+"video streaming, 1080p, desktop computer",Poland,0.2944091290319075,0.26974099176187377
+"video conferencing, video standard quality, laptop",Germany,0.07127275449290202,0.06423894754007116
+"video streaming, 720p, laptop",Norway,0.07306978126826168,0.06500216444171192
+"music streaming, high quality, desktop computer",Australia,0.18470327073790616,0.1710222772281183
+"video conferencing, video high quality, laptop",Denmark,0.08946046296257082,0.08003582562005382
+"video streaming, 720p, tablet",Norway,0.07513454510114477,0.0664508897865496
+"music streaming, high quality, laptop",Brazil,0.04394993201885913,0.0380167804548161
+"video conferencing, video standard quality, laptop",Canada,0.05770385647865676,0.051591150510383425
+"video conferencing, audio only, laptop",Germany,0.049614676055712716,0.04455111310596825
+"video streaming, 720p, smartphone",Norway,0.049562596952331124,0.044479466798093614
+"video conferencing, video standard quality, desktop computer",Canada,0.1129756796307366,0.10143473597917377
+"music streaming, standard quality, smartphone",Spain,0.012397455631635577,0.011002450292590499
+"social media, laptop",Spain,0.05197261170592354,0.046301829785144286
+"video streaming, 480p, tablet",Spain,0.06078877457474166,0.05369446521362784
+"video streaming, 720p, television 720p",China,0.12886332063360875,0.11247844257046033
+"social media, desktop computer",United Kingdom,0.11591738148028137,0.10463371725060075
+"video streaming, 480p, desktop computer",Australia,0.20726457001683576,0.19166566025222573
+"web surfing, tablet",Brazil,0.04048044790670628,0.034819519883238045
+"music streaming, low quality, tablet",Switzerland,0.03387863235853859,0.029175139492984555
+"music streaming, standard quality, laptop",Global,0.05632409572015427,0.04992201713568913
+"music streaming, high quality, desktop computer",Poland,0.19586267222359824,0.17981311711663286
+"video conferencing, audio only, laptop",France,0.03367332552045539,0.02952651210175577
+"video conferencing, video high quality, laptop",United States,0.09948773389492288,0.08945707240487172
+"video streaming, 720p, laptop",Canada,0.08124579055751253,0.07294440883888116
+"music streaming, low quality, tablet",Italy,0.03920065501865339,0.033991193121781886
+"video streaming, 480p, television 720p",France,0.06263279306030663,0.05598775530428635
+"video streaming, 720p, tablet",Russia,0.09485558477107307,0.08406087451041272
+"video streaming, 1080p, smartphone",Germany,0.10573261459952385,0.09597311670860988
+"music streaming, standard quality, tablet",United Kingdom,0.03891505209075373,0.03397449317595329
+"social media, tablet",Switzerland,0.043482505707738796,0.037859761781366456
+"video streaming, 480p, television 720p",Spain,0.07261130329393622,0.06525797533303081
+"video streaming, 720p, television 720p",Spain,0.09499729389000289,0.0855492798570116
+"video streaming, 4K, television 4K",United Kingdom,0.34204235460646404,0.3108258095497268
+"video streaming, 720p, television 720p",Brazil,0.09383939230473076,0.08315315994297567
+"video conferencing, video high quality, desktop computer",Global,0.208460466316398,0.18644903242009286
+"video streaming, 720p, desktop computer",Spain,0.15265097017899945,0.13709824280936694
+"video streaming, 4K, television 4K",China,0.45899373520698816,0.4030189218380159
+"video conferencing, video high quality, desktop computer",Norway,0.11684810060108787,0.10341469050891693
+"social media, smartphone",France,0.018146809775964712,0.01613678414318981
+"video conferencing, video standard quality, laptop",France,0.05300853823909588,0.04702506335496564
+"video streaming, 1080p, tablet",Russia,0.14143754098173345,0.12608550667857957
+"music streaming, standard quality, smartphone",China,0.020995055115117633,0.01783898169878696
+"video streaming, 480p, laptop",Italy,0.06743911258465388,0.05997284285965455
+"video streaming, 720p, television 720p",India,0.15109941971738008,0.14007025819515112
+"music streaming, high quality, smartphone",Denmark,0.0139716451995616,0.012363916688103225
+"video conferencing, video high quality, desktop computer",Brazil,0.15363665654471287,0.13418079331021412
+"music streaming, low quality, smartphone",Norway,0.0077684784574075716,0.006698746761700183
+"video streaming, 720p, tablet",South Africa,0.1045999683245254,0.0951791589668018
+"music streaming, high quality, smartphone",Australia,0.021971495284830535,0.020178205478166837
+"video streaming, 4K, television 4K",Switzerland,0.30206338709585007,0.2722198452670319
+"video streaming, 1080p, smartphone",Italy,0.10093925128546934,0.09097247513741794
+"video conferencing, video high quality, laptop",United Kingdom,0.09038364296255358,0.08143374007190318
+"music streaming, high quality, smartphone",China,0.023359265321768508,0.019942387913728914
+"video streaming, 480p, television 720p",India,0.12214470796862935,0.1133953612779565
+"video streaming, 720p, laptop",Brazil,0.08570558857245364,0.07556943289046215
+"video streaming, 480p, smartphone",Germany,0.03781387868652132,0.03423297519482348
+"music streaming, high quality, desktop computer",Russia,0.16387036320142534,0.14493133402858802
+"video conferencing, video high quality, desktop computer",South Africa,0.26367836898638375,0.24657161861420732
+"video streaming, 480p, smartphone",Italy,0.03531522472955929,0.03162627254564776
+"video streaming, 1080p, smartphone",South Africa,0.12503475590708035,0.11529810322374227
+"social media, tablet",Canada,0.046100540228762844,0.04042368150800375
+"video streaming, 4K, television 4K",Germany,0.3793260842090868,0.3453217858832031
+"video streaming, 1080p, smartphone",Switzerland,0.08964800837729853,0.08075469989398158
+"web surfing, tablet",China,0.052624311877267974,0.04498748961474357
+"web surfing, desktop computer",Brazil,0.10736311016424949,0.09256500882458607
+"music streaming, high quality, laptop",China,0.0702995138539955,0.060079095314976835
+"social media, tablet",Italy,0.04966660282995371,0.043455931750630686
+"social media, tablet",Germany,0.052291878410086985,0.046194731491379974
+"web surfing, desktop computer",China,0.197955830731944,0.16841764047955424
+"video conferencing, audio only, desktop computer",Russia,0.16075672267137234,0.14212231507310183
+"video streaming, 4K, television 4K",India,0.5341969409518038,0.4963353340144232
+"video streaming, 480p, desktop computer",South Africa,0.23177163942214143,0.21721532815656583
+"video streaming, 480p, smartphone",Canada,0.03192115955153823,0.028740273024464604
+"video conferencing, audio only, desktop computer",Brazil,0.10484995449543937,0.09030482016664064
+"music streaming, low quality, laptop",Spain,0.04169490642017144,0.03698582266605052
+"video conferencing, audio only, laptop",India,0.08339228809471556,0.07748743920819672
+"music streaming, low quality, laptop",India,0.08298496014909174,0.07711218315124505
+"video streaming, 4K, television 4K",Russia,0.4140167171039239,0.3719406117748315
+"music streaming, low quality, smartphone",France,0.008476635144466471,0.007385184205857457
+"music streaming, high quality, desktop computer",United States,0.13248847563674965,0.11904666513626397
+"video conferencing, video high quality, laptop",Spain,0.09109378920496064,0.08176238814476167
+"social media, desktop computer",Denmark,0.1134798207013959,0.10094266952412387
+"music streaming, low quality, desktop computer",United Kingdom,0.10567806722056787,0.09533547708705668
+"video streaming, 720p, tablet",Switzerland,0.07605561569376239,0.06731508118227186
+"video streaming, 1080p, laptop",South Africa,0.17385791821038377,0.1605034339545884
+"web surfing, laptop",Spain,0.04453829563158213,0.039563152274107866
+"web surfing, desktop computer",Switzerland,0.07793472286412707,0.06838185857318181
+"web surfing, laptop",China,0.06996666715051696,0.059782966052549104
+"music streaming, standard quality, desktop computer",United Kingdom,0.10679158809242449,0.09634665656949318
+"video conferencing, audio only, laptop",Europe,0.044362458787250036,0.039578227087392184
+"music streaming, high quality, laptop",Spain,0.04482105710487628,0.03981945539090043
+"web surfing, laptop",Switzerland,0.03512623880972502,0.030743994883723355
+"video streaming, 1080p, desktop computer",Switzerland,0.15675503829267845,0.13965775354373505
+"video streaming, 480p, smartphone",Norway,0.028834175188391997,0.02574155037201106
+"video conferencing, video standard quality, desktop computer",Europe,0.13693008302314558,0.12348243558736294
+"video streaming, 1080p, laptop",Russia,0.15340556053016338,0.13716741385181455
+"music streaming, low quality, smartphone",Switzerland,0.008170723410349846,0.007076151740310496
+"music streaming, standard quality, smartphone",Italy,0.013286471171321661,0.011704866619762652
+"video streaming, 480p, smartphone",Brazil,0.03360502832514811,0.029731393253592434
+"video streaming, 480p, laptop",Europe,0.06717203489388107,0.06028123482303626
+"music streaming, low quality, desktop computer",Canada,0.09273785398238485,0.08307840562717934
+"video streaming, 720p, laptop",Switzerland,0.07464625260655118,0.0664812833898925
+"video streaming, 720p, smartphone",Australia,0.0702693842208837,0.06437033325574991
+"video streaming, 1080p, tablet",India,0.16943577354076297,0.1550655855207393
+"social media, smartphone",United Kingdom,0.02134193919784898,0.019205602730697935
+"video conferencing, audio only, laptop",Russia,0.0571807654023733,0.050356726846420834
+"music streaming, low quality, smartphone",China,0.01967938298893476,0.01666844579666884
+"video streaming, 720p, laptop",Poland,0.11883960464538224,0.10824404038500311
+"video streaming, 720p, television 720p",Switzerland,0.08246212356641379,0.07380374515706319
+"web surfing, laptop",Italy,0.04716765949909838,0.04164062789536877
+"video streaming, 1080p, television 1080p",Global,0.1649079705030278,0.1483515629634524
+"video conferencing, video standard quality, desktop computer",Switzerland,0.0947746724598294,0.0836099437713528
+"video streaming, 720p, laptop",United States,0.09503687236019023,0.08542075162855274
+"video streaming, 480p, desktop computer",Switzerland,0.09653642732014618,0.08520306927085206
+"video streaming, 720p, desktop computer",United States,0.1763533868691165,0.15882612158013276
+"video streaming, 720p, television 720p",South Africa,0.13272210520563593,0.1228659206409461
+"video streaming, 720p, smartphone",Canada,0.05363438995403385,0.04843484086998015
+"music streaming, low quality, desktop computer",China,0.1946087951025889,0.16543982762492204
+"video streaming, 480p, television 720p",Switzerland,0.06154381422560674,0.054887667348564255
+"video streaming, 720p, television 720p",Europe,0.09818675222623797,0.0886768093538152
+"web surfing, smartphone",Global,0.018911506222826155,0.016792106456034666
+"video streaming, 1080p, laptop",India,0.19576421309219014,0.18101150609253328
+"social media, desktop computer",Germany,0.1448608175474778,0.13141301471426592
+"social media, smartphone",India,0.03848798506312818,0.03575870653849034
+"web surfing, desktop computer",Germany,0.13702561647394004,0.12429058499636267
+"video conferencing, audio only, desktop computer",Poland,0.19256727498212836,0.17680592558854347
+"video conferencing, audio only, desktop computer",Denmark,0.10360262940187015,0.0920025948269832
+"video streaming, 1080p, television 1080p",Switzerland,0.12223939255732581,0.1097499567777894
+"video streaming, 480p, desktop computer",Spain,0.13026497958293276,0.11680693828538605
+"social media, laptop",Denmark,0.05067538709736124,0.04493055481438559
+"video streaming, 1080p, tablet",Poland,0.1511772113296438,0.13670484235045646
+"music streaming, high quality, laptop",Poland,0.06959429500458959,0.06330558013312858
+"video streaming, 720p, desktop computer",Brazil,0.1493998157443883,0.13037042070128296
+"music streaming, standard quality, desktop computer",Italy,0.11765867621830835,0.1043302648332409
+"video streaming, 1080p, desktop computer",United Kingdom,0.19254630209522922,0.17421983300781674
+"music streaming, low quality, smartphone",Russia,0.016380943927030395,0.014389283766507496
+"social media, tablet",Denmark,0.04768283162291413,0.04171943558884694
+"video streaming, 480p, desktop computer",United States,0.15297900663008987,0.13762876555004244
+"music streaming, standard quality, laptop",Australia,0.06404128485453531,0.058637382322365726
+"video streaming, 720p, television 720p",Australia,0.12361408637535638,0.11337042150428726
+"music streaming, high quality, smartphone",Russia,0.019843381971394514,0.017512975793554
+"web surfing, smartphone",Poland,0.02277998479212667,0.02077373134926518
+"music streaming, standard quality, laptop",United States,0.04907482872159109,0.04373948380818709
+"video streaming, 1080p, television 1080p",Russia,0.16817362231742977,0.15066518994050637
+"music streaming, standard quality, laptop",Norway,0.03231059895279785,0.028156997910447498
+"video streaming, 720p, desktop computer",China,0.24773995220529801,0.21270990781597615
+"video streaming, 480p, laptop",Norway,0.052341359504322456,0.04626424801562931
+"video conferencing, video standard quality, desktop computer",Poland,0.21665646529776753,0.19878834644030452
+"music streaming, high quality, tablet",Global,0.0475069160920658,0.04150326584196428
+"video streaming, 1080p, television 1080p",Denmark,0.1373543626605031,0.12363908238047464
+"music streaming, low quality, tablet",South Africa,0.05055784772507548,0.04545685238974984
+"music streaming, high quality, tablet",South Africa,0.054300823705032905,0.048900636555167624
+"web surfing, laptop",Russia,0.059981227144403126,0.05288320671509783
+"music streaming, standard quality, desktop computer",Spain,0.10863243937099197,0.09719858281931722
+"video streaming, 720p, smartphone",Russia,0.06637258035847098,0.059490011675294406
+"video streaming, 480p, tablet",Germany,0.06543697283118273,0.05814401144868207
+"social media, laptop",Australia,0.07457230881565,0.06827317317721132
+"web surfing, laptop",Europe,0.046933106576839086,0.041911463830796934
+"video conferencing, video standard quality, laptop",Italy,0.06551921695984148,0.05823661116701224
+"web surfing, desktop computer",Spain,0.11035813270353818,0.0987628007964234
+"video streaming, 480p, desktop computer",United Kingdom,0.1283433227751676,0.11591761610235693
+"video streaming, 1080p, television 1080p",Australia,0.1793435502850408,0.16465430574853504
+"video streaming, 720p, smartphone",China,0.07281054009164407,0.06393852598772319
+"music streaming, low quality, tablet",Spain,0.03803853848393609,0.033072998116607515
+"web surfing, laptop",Norway,0.03390851346449818,0.029601468160872172
+"video conferencing, video standard quality, laptop",Russia,0.07994132317642698,0.07089051602588897
+"video conferencing, video standard quality, desktop computer",United Kingdom,0.1264650012888827,0.11421192724069767
+"video streaming, 4K, television 4K",Global,0.4060574980818867,0.366301717951413
+"video streaming, 720p, desktop computer",Global,0.20379173475110535,0.18222690130939562
+"video conferencing, audio only, desktop computer",Canada,0.09304331050391558,0.0833554640876492
+"video streaming, 720p, television 720p",Denmark,0.0933546874758601,0.0838129074141406
+"social media, tablet",Australia,0.059351281625301316,0.05311722893237143
+"video streaming, 1080p, laptop",Denmark,0.12693080810555216,0.11395110318706617
+"music streaming, high quality, tablet",Australia,0.051129325782524805,0.04559421434126376
+"music streaming, standard quality, desktop computer",South Africa,0.20587075153630863,0.19338480718899406
+"video streaming, 480p, laptop",Brazil,0.06345517096089946,0.055558678226786715
+"social media, desktop computer",United States,0.1399557867583047,0.1258184918462091
+"music streaming, low quality, laptop",United Kingdom,0.04116928325393166,0.03674256989596053
+"video streaming, 720p, smartphone",Switzerland,0.05034770674557355,0.04521609342959775
+"social media, desktop computer",Brazil,0.11475240288285933,0.09921051662186005
+"video conferencing, audio only, desktop computer",South Africa,0.20490957969109916,0.19250046585244737
+"video streaming, 480p, television 720p",Russia,0.0907704027273568,0.08092081712260284
+"video streaming, 480p, laptop",United States,0.07166249212116357,0.06422339559846245
+"video streaming, 1080p, smartphone",Denmark,0.09731717968305945,0.08780189104335953
+"video conferencing, video high quality, laptop",Poland,0.1238364015905561,0.11280383222193736
+"music streaming, standard quality, tablet",Germany,0.04263792842722705,0.03741900517526812
+"music streaming, standard quality, smartphone",Brazil,0.012103498086901286,0.010394145117281909
+"social media, tablet",South Africa,0.06286346184721847,0.056778827012750145
+"video streaming, 480p, smartphone",South Africa,0.047875576203701906,0.044306581316582334
+"video streaming, 720p, tablet",Global,0.09351901826176909,0.08311395288241946
+"music streaming, high quality, tablet",Switzerland,0.036799824824335595,0.03181672505692025
+"video streaming, 480p, desktop computer",Poland,0.2188665383006539,0.20080513298339656
+"video streaming, 1080p, smartphone",United Kingdom,0.0979708598127969,0.088791718487914
+"music streaming, high quality, smartphone",Germany,0.017131592178451754,0.015432164510235458
+"social media, smartphone",Brazil,0.02120803307517342,0.01858224383784508
+"video streaming, 480p, television 720p",South Africa,0.105919102554937,0.09820539473632135
+"web surfing, desktop computer",Norway,0.07373980471951479,0.06444599068706165
+"video streaming, 480p, desktop computer",China,0.22138875560415835,0.18926560047559274
+"web surfing, tablet",Australia,0.05080424228989195,0.04529676591108838
+"video streaming, 480p, television 720p",Poland,0.10168449845823739,0.09282064966119453
+"video streaming, 480p, television 720p",Germany,0.0817140499381227,0.07397169403105897
+"video streaming, 480p, smartphone",Spain,0.034029995843576806,0.03061080575865982
+"video streaming, 720p, television 720p",Germany,0.10530717347451257,0.0954185417426356
+"video streaming, 720p, television 720p",United States,0.10343893097991903,0.09328768348540521
+"video conferencing, video standard quality, laptop",United Kingdom,0.06195621732224663,0.05561902004960162
+"music streaming, high quality, tablet",Europe,0.042275288594903516,0.03699566606267605
+"web surfing, tablet",Switzerland,0.03653560189693614,0.031577792676102674
+"music streaming, low quality, smartphone",Global,0.015797245851173532,0.013975749289622589
+"video conferencing, video high quality, desktop computer",Canada,0.14065216534283306,0.12653815981239924
+"video streaming, 1080p, television 1080p",France,0.12395089590278116,0.111478919872864
+"video streaming, 480p, laptop",Germany,0.07325978410333062,0.06604521627712608
+"music streaming, high quality, tablet",Russia,0.048326386383996583,0.04208383862867231
+"music streaming, standard quality, tablet",India,0.05810218197487318,0.05249809653272371
+"music streaming, standard quality, tablet",Switzerland,0.03492304931398646,0.030119588304401035
+"video streaming, 720p, tablet",France,0.0767561000632253,0.06802271148091778
+"video streaming, 720p, desktop computer",Norway,0.11290107252327831,0.09984668696790149
+"video streaming, 480p, desktop computer",Global,0.17927317671700188,0.16005373388319416
+"video streaming, 720p, desktop computer",India,0.31017443978541875,0.2901821687302124
+"music streaming, high quality, smartphone",Spain,0.014405910437476228,0.01282297138648956
+"social media, smartphone",Poland,0.031494684499634405,0.028726269149706867
+"video conferencing, video standard quality, desktop computer",Norway,0.09042688836552659,0.07953064992040397
+"music streaming, standard quality, smartphone",Norway,0.00880341463686736,0.007634300266829242
+"music streaming, high quality, tablet",India,0.0606999776682979,0.05489134889646124
+"music streaming, standard quality, laptop",Poland,0.06723993176068445,0.061157122547493586
+"social media, tablet",Russia,0.05624725048314663,0.049229768668953455
+"web surfing, smartphone",South Africa,0.024040880687961504,0.022377093271725865
+"video streaming, 720p, television 720p",Poland,0.12792594202197446,0.1167670940463055
+"video conferencing, video standard quality, desktop computer",Australia,0.20509701616830492,0.18968236825439344
+"music streaming, high quality, laptop",Germany,0.05257749759526114,0.04724440559253814
+"music streaming, high quality, smartphone",South Africa,0.024379434234908414,0.022688584809572986
+"video streaming, 480p, smartphone",China,0.04645934349050411,0.04049421864733954
+"social media, desktop computer",Italy,0.12698645685981094,0.1127657173456005
+"video conferencing, audio only, laptop",Switzerland,0.03276354303387247,0.02860744854980658
+"music streaming, low quality, laptop",South Africa,0.0694596205582541,0.06445013137500107
+"video streaming, 1080p, laptop",Switzerland,0.11394655423827629,0.10201988985427649
+"social media, laptop",Germany,0.060114689682234865,0.05409593631982396
+"video streaming, 480p, laptop",France,0.054782455547009265,0.04863047537619221
+"video streaming, 720p, desktop computer",Germany,0.18159903550496354,0.16480914238314476
+"video streaming, 4K, television 4K",Denmark,0.33890239027192826,0.30607115550433867
+"video streaming, 480p, tablet",South Africa,0.07779696567382642,0.07051863306217704
+"web surfing, desktop computer",Global,0.15746993426525985,0.1403361410033804
+"music streaming, standard quality, desktop computer",Europe,0.11685348898055202,0.10526000655904068
+"music streaming, low quality, tablet",Russia,0.04486394833963244,0.03896014660162579
+"video streaming, 720p, television 720p",Global,0.11321112333459997,0.10162189229955844
+"music streaming, standard quality, desktop computer",Switzerland,0.07632217028117731,0.06692365420148011
+"web surfing, tablet",France,0.036963255972215316,0.032009809426510646
+"video streaming, 720p, tablet",India,0.1150370701443217,0.10495008728609628
+"video conferencing, video high quality, laptop",South Africa,0.12860546807124792,0.11886820250507028
+"music streaming, low quality, smartphone",South Africa,0.020636458254950956,0.019244800644155163
+"music streaming, low quality, smartphone",United Kingdom,0.011102624938135422,0.009907362567153829
+"video streaming, 720p, tablet",United States,0.08796905792652732,0.07838067229753443
+"music streaming, standard quality, laptop",Denmark,0.0415940740468805,0.03671084796074649
+"video streaming, 1080p, tablet",China,0.15191577918384597,0.13332578070063558
+"video conferencing, video standard quality, desktop computer",China,0.21916943912256026,0.18729110427082032
+"music streaming, standard quality, laptop",South Africa,0.07079785062117307,0.06568139107985733
+"video conferencing, audio only, desktop computer",Spain,0.1078296642428285,0.09647092439741536
+"video streaming, 480p, television 720p",Norway,0.06011191021125472,0.05354418820741991
+"video streaming, 1080p, laptop",Italy,0.13306313914056403,0.11931904545142481
+"social media, desktop computer",Spain,0.11779244877787948,0.10550147830745973
+"music streaming, low quality, smartphone",Poland,0.019446889604724786,0.017732138826295252
+"social media, smartphone",Russia,0.027764246070544653,0.024658905833835235
+"video streaming, 480p, laptop",United Kingdom,0.06383453880853164,0.05732470891126096
+"social media, desktop computer",Australia,0.1929252265806821,0.17854529181922538
+"video streaming, 720p, smartphone",India,0.08357504229321727,0.07729573216486949
+"video streaming, 1080p, television 1080p",India,0.2174833303399705,0.20170409831317979
+"video streaming, 4K, television 4K",France,0.30623475341339523,0.2764337654081896
+"music streaming, low quality, desktop computer",Russia,0.16040792515706134,0.14180764200154164
+"video conferencing, video standard quality, desktop computer",Spain,0.12837961556555091,0.11509799021578522
+"video streaming, 720p, tablet",Brazil,0.0825171534868452,0.07262493175993502
+"video conferencing, video standard quality, desktop computer",United States,0.1510103997354272,0.13584350917948929
+"video streaming, 1080p, tablet",Spain,0.12523247492243395,0.1121080852317187
+"video conferencing, video high quality, desktop computer",Spain,0.15691362627691685,0.14096203666707735
+"video streaming, 720p, smartphone",Poland,0.07235675482604366,0.06601466344688785
+"music streaming, low quality, tablet",Poland,0.04896619894080866,0.043432903336497776
+"music streaming, high quality, laptop",France,0.03631837941481049,0.03192031101213723
+"video conferencing, video high quality, laptop",Australia,0.11954890647280851,0.10942634973318267
+"video conferencing, video high quality, desktop computer",India,0.3156878870492148,0.2952615022320039
+"social media, laptop",Russia,0.06821527003157662,0.06031167584218843
+"video streaming, 480p, smartphone",United States,0.037128205234779596,0.03345091775814934
+"web surfing, tablet",Canada,0.038889645668862736,0.0338831783445275
+"video streaming, 720p, laptop",China,0.11975078862387117,0.10407523338897123
+"music streaming, standard quality, laptop",United Kingdom,0.042282804125788415,0.03775374937839715
+"music streaming, low quality, smartphone",India,0.02519449274656051,0.023511907458224558
+"video streaming, 720p, desktop computer",United Kingdom,0.15064569342651155,0.13617022221177955
+"social media, smartphone",China,0.03177756695944966,0.027432038340811
+"video conferencing, audio only, desktop computer",Australia,0.1814712729876705,0.1680650287706467
+"video streaming, 720p, smartphone",Spain,0.056415986439643344,0.050902110282640516
+"video streaming, 1080p, tablet",Italy,0.12799160230259868,0.11428808775592626
+"web surfing, tablet",Germany,0.044456677336549344,0.03907230177347685
+"music streaming, low quality, smartphone",Germany,0.01383686823129823,0.012437162909989587
+"music streaming, high quality, desktop computer",Global,0.1577796325814019,0.14061621426894028
+"video conferencing, video high quality, laptop",Canada,0.08538034219075327,0.07669457434360895
+"video conferencing, video high quality, desktop computer",Poland,0.2501047788095649,0.2293113692054417
+"web surfing, smartphone",Brazil,0.013818740356563433,0.011936736040570994
+"music streaming, standard quality, tablet",Italy,0.04033882218845105,0.03502047923827105
+"video streaming, 1080p, smartphone",Global,0.11129758038472226,0.1003407346988492
+"video streaming, 720p, laptop",France,0.07584517648950788,0.06769243798853238
+"video streaming, 720p, smartphone",France,0.05094479142386708,0.04581926921429327
+"video streaming, 480p, tablet",China,0.07605723674948207,0.06583544961078192
+"web surfing, desktop computer",Russia,0.16355718441340206,0.14464879494177876
+"music streaming, low quality, desktop computer",Brazil,0.10453694095299317,0.09002331366578979
+"music streaming, low quality, desktop computer",Spain,0.10751474349212747,0.09618547118836607
+"music streaming, standard quality, laptop",France,0.034428647400517785,0.03021008558104832
+"music streaming, high quality, desktop computer",Norway,0.07400162914277994,0.06468267267941598
+"music streaming, standard quality, smartphone",United States,0.014540541835207135,0.012967005967873984
+"music streaming, low quality, desktop computer",South Africa,0.20453252147339013,0.19215354748413832
+"web surfing, smartphone",Europe,0.014961647316322085,0.013388885728864252
+"social media, tablet",Europe,0.04954614378371921,0.04359502461783302
+"music streaming, standard quality, smartphone",Denmark,0.011980445624387971,0.010561635817040034
+"social media, desktop computer",Russia,0.17179122730057575,0.15207726406886948
+"video streaming, 480p, television 720p",United Kingdom,0.07198074211398038,0.06496615837444286
+"video streaming, 4K, television 4K",South Africa,0.4720442693407779,0.4381497083829738
+"music streaming, high quality, smartphone",United States,0.01663767424143932,0.014868817344370813
+"video conferencing, video high quality, desktop computer",Denmark,0.15226489656660522,0.13604794032979187
+"video streaming, 480p, tablet",Australia,0.07369062506145446,0.06623759736537134
+"video streaming, 720p, smartphone",South Africa,0.07467857885440071,0.06896710722120696
+"video conferencing, video high quality, desktop computer",United Kingdom,0.15489242692918967,0.14002664726299927
+"music streaming, standard quality, laptop",Italy,0.045410359026416214,0.040051436933769405
+"music streaming, low quality, desktop computer",Denmark,0.10329041422870021,0.0917200016398032
+"video streaming, 480p, smartphone",Europe,0.03520057563336402,0.03175865672110354
+"video streaming, 720p, desktop computer",Italy,0.16248343362844514,0.14486692913137755
+"video conferencing, video high quality, laptop",Italy,0.09457584571589593,0.08451358116246835
+"music streaming, high quality, desktop computer",Switzerland,0.07819894579152652,0.0686207909539994
+"music streaming, standard quality, laptop",Europe,0.04517862562532511,0.04031901719604012
+"video streaming, 720p, television 720p",Italy,0.09849913461895655,0.08831610449996671
+"video conferencing, audio only, laptop",United Kingdom,0.04148302765929048,0.03702747870498815
+"music streaming, standard quality, desktop computer",Canada,0.09382196004566375,0.08406172317225212
+"music streaming, high quality, tablet",France,0.037229302988527946,0.03225058450452268
+"web surfing, laptop",India,0.08666268504817995,0.0805003340478676
+"video streaming, 1080p, laptop",France,0.1154167916109201,0.10350512572311105
+"music streaming, high quality, laptop",Switzerland,0.035390461737124505,0.030982927264540966
+"video streaming, 480p, desktop computer",Europe,0.1388468982491081,0.1252222241860369
+"music streaming, standard quality, tablet",Global,0.04530712888566315,0.03951390537624122
+"social media, laptop",South Africa,0.08176523468039719,0.07577210599800145
+"music streaming, low quality, smartphone",Italy,0.012148304001523974,0.010675580503273477
+"video streaming, 1080p, desktop computer",Canada,0.17731137434839103,0.15978918996956618
+"video conferencing, video standard quality, laptop",United States,0.06969388522650083,0.062438139227909195
+"web surfing, laptop",South Africa,0.07286404299126459,0.06758242400257174
+"web surfing, tablet",Spain,0.040881927695346855,0.03565032772466494
+"video streaming, 480p, desktop computer",Canada,0.11480438330709679,0.10309342646215597
+"music streaming, standard quality, desktop computer",Russia,0.1616458542024979,0.14292445883399696
+"video conferencing, video standard quality, desktop computer",France,0.09808121033463434,0.08695021299909617
+"video streaming, 4K, television 4K",Canada,0.3250248867467799,0.2947067305374242
+"video conferencing, audio only, desktop computer",Global,0.1547005950919378,0.1378317106423209
+"video streaming, 480p, smartphone",Russia,0.041578476261113995,0.037121627232216625
+"social media, desktop computer",Global,0.16561246918371178,0.14769977918183283
+"video conferencing, video high quality, laptop",India,0.14687895695954453,0.1359753413596815
+"video conferencing, audio only, laptop",Global,0.055444845437092674,0.049126873974792686
+"video conferencing, video high quality, desktop computer",Germany,0.18609154931531846,0.16889297042669424
+"video streaming, 1080p, tablet",United Kingdom,0.12466976609355834,0.11184766961427677
+"music streaming, standard quality, desktop computer",Australia,0.18239420261956749,0.1689095009643798
+"video streaming, 720p, desktop computer",Europe,0.16160632678767406,0.14587971571021258
+"music streaming, standard quality, tablet",Australia,0.04882025766418647,0.04348143807752568
+"video streaming, 720p, laptop",Australia,0.11464824190892711,0.10494228636368715
+"video streaming, 720p, tablet",Denmark,0.08224187313245827,0.07299962478309131
+"video streaming, 1080p, desktop computer",Global,0.2498560084271559,0.22388476924619488
+"music streaming, high quality, tablet",Denmark,0.040592718147606906,0.035302009606270945
+"video conferencing, audio only, desktop computer",China,0.19497949742107157,0.16576963652194657
+"video streaming, 1080p, desktop computer",France,0.16048946370645842,0.14343027536724146
+"music streaming, high quality, tablet",Poland,0.052630754521334824,0.04677696770521578
+"web surfing, laptop",Poland,0.06926283461146543,0.06300310828738061
+"video streaming, 480p, desktop computer",Norway,0.09217265075933906,0.08110877054181881
+"video conferencing, audio only, desktop computer",United States,0.12955312385346557,0.11638470378423865
+"video streaming, 480p, tablet",Italy,0.062367575746688775,0.05494188516415624
+"social media, laptop",Canada,0.04743486298543387,0.0422768575512763
+"video streaming, 720p, smartphone",Denmark,0.05562080018441288,0.05006153186492349
+"music streaming, high quality, tablet",Canada,0.03916390938715738,0.03413194397301253
+"social media, desktop computer",Norway,0.08062364747170725,0.07066879296549058
+"music streaming, high quality, laptop",Canada,0.04049823214382853,0.03598512001628518
+"music streaming, standard quality, tablet",Spain,0.039156234362800385,0.034086109747558484
+"music streaming, high quality, smartphone",Global,0.019221204538968122,0.01707217972159446
+"music streaming, standard quality, tablet",France,0.035339570974235235,0.030540359073433793
+"music streaming, standard quality, tablet",Russia,0.04610187738506937,0.04007696343408141
+"social media, smartphone",United States,0.024104985362994436,0.021640644054316042
+"web surfing, laptop",France,0.036052332398497894,0.0316795359341252
+"video streaming, 720p, desktop computer",Poland,0.24510798186439126,0.22475157736850776
+"video streaming, 1080p, tablet",Germany,0.13335570874418526,0.1198841529624685
+"video streaming, 480p, smartphone",India,0.05462033054446655,0.050620835247674884
+"social media, laptop",Norway,0.04079235621669059,0.035824270439301066
+"music streaming, low quality, tablet",France,0.03428794378382466,0.02958862647248196
+"music streaming, standard quality, tablet",Canada,0.03721581413691283,0.03236496166018919
+"web surfing, smartphone",United States,0.016342428240805014,0.014601069728053001
+"video conferencing, video standard quality, laptop",Global,0.07795245670146524,0.06948145731670978
+"video streaming, 480p, television 720p",Brazil,0.07158897469317668,0.06314240527930028
+"video streaming, 1080p, smartphone",France,0.09051640654527915,0.08163195694887179
+"music streaming, high quality, desktop computer",Canada,0.09577005529590824,0.08582870548507537
+"social media, tablet",India,0.06995001291423245,0.06341306165971701
+"video conferencing, video standard quality, laptop",Norway,0.05059559711051013,0.04468612739421461
+"web surfing, tablet",Denmark,0.0403123859619578,0.03504827444981649
+"social media, laptop",Italy,0.054738139667918656,0.04848688944612887
+"music streaming, low quality, laptop",Denmark,0.04048598062466566,0.035707886930064964
+"web surfing, laptop",Denmark,0.04330494143640503,0.03825939367535523
+"video streaming, 1080p, desktop computer",United States,0.2202680349834531,0.19865068255229945
+"music streaming, low quality, tablet",United Kingdom,0.03780153121889683,0.03296331369351655
+"video conferencing, video high quality, desktop computer",France,0.12492853265457543,0.1112472948291825
+"video conferencing, video standard quality, desktop computer",India,0.27878114166138585,0.261260693061042
+"social media, desktop computer",Canada,0.1027066861375138,0.09212044302006674
+"video streaming, 1080p, laptop",Germany,0.14117852001633327,0.12778535779091257
+"web surfing, laptop",United Kingdom,0.04400205135623111,0.03931498416851009
+"social media, desktop computer",Poland,0.2042459115379819,0.18746318307132662
+"music streaming, high quality, desktop computer",India,0.2558373473093952,0.2401234303405776
+"video streaming, 720p, laptop",Europe,0.08993146343244732,0.08093872634721215
+"music streaming, low quality, desktop computer",Poland,0.19219811664307246,0.17646905274791516
+"video streaming, 1080p, laptop",China,0.1692581344570951,0.14812125713844118
+"music streaming, standard quality, laptop",Canada,0.03855013689358394,0.034218137703461805
+"video streaming, 4K, television 4K",United States,0.3730076277130609,0.3381151543905193
+"video streaming, 1080p, laptop",Spain,0.12888884285866903,0.1160209097811614
+"video streaming, 4K, television 4K",Spain,0.34445773825158793,0.31194362322356034
+"video streaming, 1080p, tablet",Norway,0.1140780951940413,0.1016547753156031
+"video streaming, 720p, smartphone",Germany,0.06140700222291141,0.055679822906400306
+"video streaming, 720p, desktop computer",France,0.12091784858504656,0.10761758763266312
+"video conferencing, video high quality, laptop",Switzerland,0.07862943836226112,0.07008321175098284
+"web surfing, tablet",Global,0.04719721777592378,0.041223192576404465
+"music streaming, low quality, laptop",Switzerland,0.03246926927132744,0.028341341700605226
+"web surfing, desktop computer",United States,0.13219322963611543,0.11877891751994624
+"music streaming, low quality, laptop",France,0.033377020210107196,0.029258352980096495
+"video streaming, 1080p, television 1080p",Europe,0.144059534633398,0.13038843294790325
+"video streaming, 720p, television 720p",Russia,0.11556450682471364,0.10328920156568053
+"web surfing, smartphone",Canada,0.012612567822055044,0.011226786418899001
+"music streaming, low quality, laptop",Brazil,0.0408427137810585,0.035222325854969
+"web surfing, tablet",Europe,0.04198781015979551,0.03673473757202595
+"music streaming, high quality, smartphone",Canada,0.012886831540349666,0.011475552047384015
+"video streaming, 480p, tablet",Norway,0.054406123337205695,0.04771297336046709
+"video conferencing, video high quality, desktop computer",Italy,0.1668241629077879,0.14879240906193966
+"video conferencing, video standard quality, desktop computer",South Africa,0.2295142715143612,0.2151384011610514
+"video streaming, 480p, television 720p",Denmark,0.0711610215615947,0.06372490617370255
+"video streaming, 1080p, tablet",Brazil,0.12432015531262275,0.11022016382903696
+"music streaming, high quality, tablet",United Kingdom,0.040916004575929955,0.03579154227622473
+"social media, tablet",United Kingdom,0.04804084547861041,0.04226155385706066
+"music streaming, standard quality, smartphone",Canada,0.010938736290105078,0.009708569734560642
+"video conferencing, video standard quality, desktop computer",Brazil,0.12527545216843594,0.10867434607637297
+"web surfing, tablet",Norway,0.03597327729738133,0.031050193505709884
+"video streaming, 480p, tablet",Denmark,0.06004820721819271,0.05291162354265306
+"music streaming, standard quality, laptop",India,0.08443062152630018,0.07844401710451757
+"social media, desktop computer",France,0.08811986693714406,0.07793510256155951
+"web surfing, desktop computer",South Africa,0.20793694390640066,0.19528584011170902
+"music streaming, high quality, tablet",Germany,0.04475468632311312,0.039343200764094
+"web surfing, smartphone",Norway,0.010401329148567635,0.00907877051725386
+"social media, laptop",United Kingdom,0.05140859751364522,0.046040810059504625
+"video conferencing, audio only, laptop",Canada,0.0377714873518359,0.033511878618859
+"music streaming, low quality, laptop",Russia,0.05683196788806228,0.05004205377486062
+"music streaming, low quality, tablet",Europe,0.039096988184028084,0.03411089618861313
+"video conferencing, video standard quality, desktop computer",Global,0.17720820635631032,0.15818629398423797
+"video conferencing, audio only, desktop computer",United Kingdom,0.10599181162592668,0.09562038589608433
+"social media, laptop",Brazil,0.051058175710924816,0.044409528811039406
+"video streaming, 1080p, laptop",Poland,0.16814075181289873,0.15323345477836944
+"music streaming, standard quality, desktop computer",India,0.2532395516159705,0.23773017797684004
+"music streaming, high quality, smartphone",Europe,0.015249125751430056,0.01364981421951432
+"social media, laptop",Poland,0.07797753431897315,0.07095564608782227
+"video streaming, 720p, television 720p",France,0.08369551400280528,0.07504971791662654
+"video streaming, 1080p, tablet",Europe,0.12774547380060705,0.11457228989858326
+"social media, smartphone",Germany,0.024668784265425653,0.022283695237521457
+"social media, laptop",Europe,0.05449144020076261,0.04877175087660382
+"video streaming, 480p, tablet",United Kingdom,0.06046678677349678,0.05354545270881696
+"video streaming, 480p, television 720p",Canada,0.06753815402445365,0.060758104096059466
+"video conferencing, video high quality, laptop",Brazil,0.08994242937277816,0.07937980549939327
+"music streaming, low quality, desktop computer",Norway,0.07110695402835487,0.06206596693150812
+"web surfing, tablet",South Africa,0.053962270158086044,0.04858914501732054
+"social media, tablet",Poland,0.06101399383571829,0.05442703365990942
+"music streaming, standard quality, tablet",United States,0.042007014287928225,0.03669940447716879
+"video streaming, 720p, desktop computer",Switzerland,0.11745473666095324,0.10411914707935098
+"video conferencing, video standard quality, desktop computer",Russia,0.18351728044542584,0.16265610425256982
+"video streaming, 480p, television 720p",China,0.10251212403246901,0.08903413523007686
+"video streaming, 1080p, desktop computer",Australia,0.2813538118896804,0.25945664068460084
+"video conferencing, video standard quality, laptop",India,0.10997221157171547,0.10197453218871945
+"video streaming, 480p, tablet",Switzerland,0.055137306352955384,0.04839900337377303
+"video conferencing, audio only, desktop computer",Norway,0.0713985564979767,0.062329567449079554
+"music streaming, high quality, smartphone",United Kingdom,0.014217098295168464,0.012735591149861945
+"video conferencing, video high quality, desktop computer",Russia,0.2151207615983669,0.19116767351083974
+"music streaming, standard quality, smartphone",Switzerland,0.009215140365797703,0.008020600551726962
+"web surfing, smartphone",Switzerland,0.010827692948747424,0.00947880492342864
+"music streaming, low quality, smartphone",Denmark,0.010872352202173089,0.009558674786358473
+"video streaming, 480p, laptop",Russia,0.08202950022214588,0.07277439724056975
+"video streaming, 1080p, tablet",France,0.11632771518463725,0.10383539921549623
+"video streaming, 1080p, laptop",Europe,0.13269077021765055,0.11974901615735414
+"video streaming, 1080p, laptop",Brazil,0.12750859039823123,0.11316466495956415
+"music streaming, low quality, tablet",Brazil,0.03765427869544996,0.032277824724441746
+"video streaming, 480p, desktop computer",India,0.2812197280366681,0.2635072718130179
+"video streaming, 480p, tablet",Global,0.06900046022766566,0.06094078545621807
+"web surfing, desktop computer",United Kingdom,0.10851083532286725,0.09790789135960622
+"music streaming, high quality, tablet",Brazil,0.04076149693325058,0.03507227932428884
+"music streaming, high quality, smartphone",Poland,0.023111445185250993,0.02107620319501331
+"video streaming, 1080p, television 1080p",Spain,0.1396337109431905,0.12604854426476236
+"video streaming, 720p, tablet",Germany,0.08903009636757261,0.07959085916025872
+"music streaming, low quality, laptop",Norway,0.03127566277333809,0.02722144440531848
+"video streaming, 480p, tablet",India,0.08608235839557078,0.0782751903689015
+"web surfing, smartphone",China,0.023026418618289943,0.019646258651301134
+"web surfing, tablet",Italy,0.04209612266113326,0.036609670199870444
+"video streaming, 1080p, desktop computer",Spain,0.19470867993062516,0.17522055830347708
+"music streaming, high quality, smartphone",Brazil,0.014099789383107738,0.012189495481621774
+"video conferencing, video standard quality, laptop",Brazil,0.06158122499650147,0.05387335826555235
+"music streaming, low quality, laptop",Global,0.05509992423876225,0.04881494716944023
+"music streaming, low quality, desktop computer",Europe,0.11571714795629875,0.10422861181038479
+"video streaming, 480p, smartphone",Denmark,0.03342713427014742,0.029973530624485375
+"web surfing, laptop",Brazil,0.04366888299231482,0.037764021013765296
+"music streaming, standard quality, desktop computer",Poland,0.19350830897969357,0.17766465953099828
+"music streaming, low quality, laptop",China,0.06661963152116168,0.05680515319791672
+"social media, tablet",France,0.04395811841532289,0.0383402264098143
+"music streaming, low quality, desktop computer",Germany,0.13402890151335045,0.12156648238673416
+"video conferencing, video high quality, laptop",China,0.12476848432946094,0.10853941017923056
+"social media, tablet",Brazil,0.04786974062531629,0.04146502768051216
+"video streaming, 720p, smartphone",Brazil,0.0558554459367023,0.049742147917267894
+"video streaming, 1080p, tablet",Australia,0.14777986693429873,0.13402857779774613
+"video streaming, 720p, tablet",United Kingdom,0.08276915742484049,0.07379805881823943
+"social media, laptop",France,0.04304719484160553,0.038009952917428924
+"video streaming, 480p, television 720p",Europe,0.07542732368767159,0.06801931782963919
+"music streaming, low quality, tablet",Germany,0.041459962375959586,0.03634819916384813
+"video streaming, 480p, laptop",Poland,0.09259816108164545,0.08429759599989248
+"video streaming, 720p, television 720p",Canada,0.08925138442694898,0.08045267194157474
+"video streaming, 720p, tablet",Poland,0.10187606416212745,0.09171542795709034
+"music streaming, low quality, tablet",Global,0.04408295740427124,0.03840683540999244
+"web surfing, laptop",Germany,0.052279488608697126,0.04697350660192074
+"social media, smartphone",Canada,0.01982346238195512,0.017767289582375233
+"video streaming, 720p, desktop computer",Russia,0.21039956158850195,0.1869083699103285
+"music streaming, standard quality, tablet",China,0.050592948374095705,0.043180212662229434
+"video streaming, 1080p, television 1080p",Poland,0.1853268586897153,0.1693676684012307
+"music streaming, standard quality, laptop",Switzerland,0.03351368622677531,0.0292857905120217
+"video streaming, 1080p, desktop computer",Denmark,0.18973524170958622,0.1699632178968039
+"music streaming, standard quality, smartphone",United Kingdom,0.012216145809992284,0.010918542049590555
+"music streaming, standard quality, smartphone",Europe,0.013207166364808056,0.011796439094107387
+"video streaming, 480p, television 720p",Italy,0.0757031307670575,0.06770084612771529
+"music streaming, low quality, desktop computer",France,0.07844969230564591,0.06918350262422722
+"web surfing, desktop computer",France,0.08112500449403633,0.07160468557825571
+"music streaming, standard quality, smartphone",France,0.009528262334877064,0.0083369168068093
+"video streaming, 720p, tablet",Canada,0.07991146780084164,0.07109123279560871
+"video streaming, 480p, smartphone",Poland,0.046115311262306655,0.04206821906177702
+"video streaming, 1080p, desktop computer",Germany,0.22592464788157623,0.20510243618535456
+"web surfing, smartphone",United Kingdom,0.01393539304043496,0.012479776839703466
+"video streaming, 1080p, smartphone",Brazil,0.09765844776247992,0.08733737998636992
+"video streaming, 1080p, desktop computer",Brazil,0.1912028175701657,0.16796565277038475
+"music streaming, high quality, desktop computer",Germany,0.137323625460504,0.12456148398698005
+"video streaming, 720p, laptop",United Kingdom,0.0861369094598752,0.07757731502068325
+"video streaming, 1080p, television 1080p",Norway,0.11998892777982631,0.10763846574476864
+"music streaming, low quality, laptop",Germany,0.049282773648107556,0.044249403992292206
+"video streaming, 480p, television 720p",Global,0.08869256530049682,0.07944872487335733
+"music streaming, high quality, laptop",Russia,0.060294405932426416,0.05316574580190714
+"video streaming, 1080p, tablet",Global,0.13958329193781993,0.12477182081921903
+"web surfing, smartphone",Australia,0.021646411792197638,0.019880757047991412
+"video streaming, 1080p, tablet",Canada,0.12070522843963995,0.10809242845750312
+"social media, desktop computer",India,0.26508738255532904,0.24864514310383273
+"video streaming, 1080p, desktop computer",Norway,0.15184462261617504,0.13505057249695518
+"video streaming, 480p, laptop",China,0.09339959202273111,0.08063092604858746
+"video streaming, 4K, television 4K",Italy,0.3563010767721154,0.3213011135864205
+"music streaming, standard quality, smartphone",Germany,0.015014834282565705,0.013507968921409583
+"music streaming, low quality, laptop",Australia,0.06275629904734745,0.05746163203110948
+"web surfing, tablet",United Kingdom,0.04063429932119634,0.03553572796606616
+"music streaming, standard quality, tablet",Norway,0.034375362785681075,0.029605723255285276
+"social media, laptop",India,0.09627845246565943,0.08935898223151081
+"music streaming, low quality, tablet",United States,0.040839969731554834,0.035641055177146636
+"video conferencing, video standard quality, laptop",Switzerland,0.05196618840542752,0.045972080081894476
+"music streaming, high quality, desktop computer",Brazil,0.10764415919079373,0.09281776826563679
+"video conferencing, audio only, laptop",Australia,0.0631183552226381,0.057792910128632344
+"web surfing, desktop computer",Canada,0.09549579157761365,0.08557993985659042
+"video streaming, 720p, laptop",South Africa,0.12350174115770392,0.11417243795205291
+"music streaming, high quality, laptop",Europe,0.047220585011947085,0.042172392321447025
+"music streaming, high quality, smartphone",France,0.01141799434916974,0.010047142237898165
+"music streaming, high quality, laptop",United Kingdom,0.044283756610964675,0.039570798478668616
+"social media, laptop",Switzerland,0.042073142620527665,0.03702596398898714
+"video streaming, 480p, laptop",Spain,0.06444514251097694,0.05760728976307075
+"video conferencing, video standard quality, desktop computer",Germany,0.15601888235814484,0.14155602593451302
+"video streaming, 1080p, laptop",Global,0.15060025877231067,0.13517993257866653
+"social media, desktop computer",China,0.20670697907310373,0.1762034201690641
+"video streaming, 480p, laptop",Switzerland,0.05372794326574431,0.047565205581393766
+"web surfing, smartphone",India,0.028872217645648634,0.026900058354847052
+"video streaming, 480p, laptop",Australia,0.08891165225180342,0.08139354161021148
+"video streaming, 480p, desktop computer",Germany,0.15800591196857364,0.1433622946715681
+"social media, desktop computer",Switzerland,0.08488162667492966,0.07466382767844555
+"music streaming, low quality, smartphone",Spain,0.01127975975277128,0.009989338661639539
+"music streaming, high quality, laptop",India,0.08702841721972475,0.08083726946825494
+"web surfing, smartphone",Denmark,0.01369131301391246,0.012110181531648738
+"video streaming, 720p, laptop",Russia,0.10682360431950283,0.0951427816836475
+"web surfing, desktop computer",Australia,0.18437818724527316,0.17072482879794276
+"music streaming, standard quality, tablet",South Africa,0.05189607778799425,0.0466881120946059
+"video conferencing, video standard quality, laptop",Europe,0.06525521966791856,0.05854144622436231
+"video streaming, 1080p, tablet",Switzerland,0.11535591732548735,0.10285368764665573
+"video streaming, 1080p, laptop",Canada,0.12203955119631094,0.10994560450077565
+"music streaming, low quality, desktop computer",India,0.25179389023876203,0.23639834402356752
+"video streaming, 1080p, television 1080p",Italy,0.14449300930161674,0.12988790404329298
+"video conferencing, audio only, laptop",China,0.0669903338396448,0.05713496209494172
+"video conferencing, audio only, desktop computer",India,0.25220121818438584,0.23677360008051915
+"video streaming, 1080p, laptop",United Kingdom,0.12803751812859313,0.11562692581672071
+"web surfing, tablet",Russia,0.0480132075959732,0.04180129954186291
+"music streaming, high quality, desktop computer",Denmark,0.10638970722608887,0.09452524354154804
+"music streaming, high quality, tablet",Spain,0.04116468916864097,0.035906630841457475
+"video conferencing, audio only, desktop computer",Italy,0.11684119776743129,0.10359098923089997
+"video conferencing, audio only, laptop",Italy,0.044592880575539215,0.039312161331428536
+"video streaming, 1080p, tablet",Denmark,0.12393825263110482,0.11073998396152732
+"web surfing, tablet",Poland,0.05229929412821057,0.04647449585946772
+"social media, tablet",Norway,0.042857120049573705,0.03727299578413874
+"video streaming, 1080p, tablet",South Africa,0.15495614537720467,0.14151015496933672
+"video streaming, 480p, tablet",United States,0.06459467768750075,0.057183316267444204
+"video streaming, 1080p, smartphone",United States,0.10441723358814291,0.09447283476040645
+"video streaming, 720p, smartphone",United States,0.060502585473806214,0.054648273788239624
+"social media, desktop computer",Europe,0.12616630355598948,0.11371274023960434
+"video conferencing, video standard quality, laptop",Denmark,0.06117159639646944,0.05443091704543353
+"music streaming, standard quality, desktop computer",China,0.19592446722877155,0.16661036352703992
+"video streaming, 480p, laptop",South Africa,0.0966987385070052,0.08951191204742837
+"video streaming, 1080p, smartphone",India,0.13797374568965873,0.1274112303995127
+"video streaming, 720p, desktop computer",Canada,0.13651761370959256,0.12278799430767166
+"web surfing, smartphone",Spain,0.014123148964182026,0.01256666826969694
+"video streaming, 720p, smartphone",Global,0.06523330670867138,0.05868286676204959
+"music streaming, standard quality, smartphone",Australia,0.019662427166492195,0.018065429214428764
+"web surfing, desktop computer",Poland,0.19553121183047398,0.17951064527088484
+"music streaming, high quality, laptop",Australia,0.06635035297287369,0.06075015858610386
+"music streaming, high quality, smartphone",Norway,0.010663153571832817,0.009315452509608205
+"music streaming, low quality, tablet",India,0.05665652059766486,0.051166262579451324
+"video conferencing, audio only, desktop computer",France,0.07874599761599393,0.06945166174588636
+"video streaming, 480p, desktop computer",Denmark,0.12584519629667432,0.11213485747792987
+"music streaming, standard quality, desktop computer",Global,0.15557984537499953,0.13862685380321743
+"video conferencing, video high quality, desktop computer",Australia,0.2379018242378411,0.21969846837519713
+"web surfing, laptop",Global,0.05821418461041489,0.05163130433585233
+"video conferencing, video standard quality, desktop computer",Denmark,0.12397603000050396,0.1104430317551717
+"web surfing, laptop",Australia,0.06602526948024072,0.06045271015592836
+"music streaming, high quality, desktop computer",United Kingdom,0.10879254057760065,0.0981637056697646
+"video streaming, 720p, tablet",Spain,0.08317476517080824,0.0739857697376086
+"video conferencing, audio only, laptop",South Africa,0.0698366787759629,0.06479704974330998
+"music streaming, high quality, laptop",United States,0.05117196112782318,0.04564129518468383
+"video streaming, 720p, television 720p",Norway,0.08084033197519412,0.07228210463350271
+"video conferencing, video high quality, desktop computer",United States,0.18080424840384907,0.16286244235645156
+"music streaming, low quality, tablet",Australia,0.04753527185699857,0.042305687786269405
+"music streaming, low quality, laptop",Europe,0.04404228460107165,0.039287622447384096
+"video streaming, 1080p, desktop computer",Europe,0.20436563357287751,0.18469000552035472
+"music streaming, high quality, tablet",Italy,0.04238406308560186,0.036870065235982935
+"video streaming, 1080p, smartphone",Europe,0.1007193109571335,0.09122643805542142
+"video streaming, 480p, laptop",India,0.11241079794699779,0.10422111094069535
+"music streaming, standard quality, smartphone",India,0.02664015412376885,0.02484374141149698
+"video streaming, 480p, smartphone",Switzerland,0.029429397404766647,0.026300015621098956
+"video streaming, 4K, television 4K",Australia,0.4412406552967543,0.40603562341988647
+"music streaming, standard quality, desktop computer",France,0.0795013194960564,0.07013523522517898
+"video conferencing, video standard quality, laptop",China,0.09118027554113287,0.07865642984381485
+"music streaming, high quality, laptop",Global,0.058523882926556865,0.05191137760141213
+"video streaming, 1080p, desktop computer",South Africa,0.3089308191255197,0.2882068500637255
+"music streaming, standard quality, tablet",Denmark,0.03860151857243338,0.03349972873520784
+"video streaming, 480p, smartphone",France,0.029882070481368463,0.026757306601953124
+"music streaming, low quality, tablet",Canada,0.0361317080736339,0.0313816441151164
+"social media, smartphone",Australia,0.030193451127606904,0.027701220069274373
+"music streaming, low quality, smartphone",Brazil,0.010992571145307106,0.009395040881774676
+"music streaming, standard quality, desktop computer",Germany,0.13520686756461767,0.12263728839815391
+"music streaming, high quality, desktop computer",Italy,0.11970391711545916,0.10617985083095278
+"social media, smartphone",Italy,0.02261425181282418,0.020140319132122192
+"video streaming, 1080p, laptop",Australia,0.16300089412464772,0.14918452204258625
+"video streaming, 1080p, smartphone",Norway,0.08850614704522795,0.0796833523271474
+"video streaming, 1080p, television 1080p",Brazil,0.1380269590352553,0.12272358962916255
+"video streaming, 1080p, television 1080p",China,0.18662760384099494,0.16341655905918448
+"video conferencing, video high quality, laptop",Europe,0.09426522817824672,0.08487224815565397
+"web surfing, smartphone",Germany,0.01683358319188791,0.015161265519618215
+"music streaming, low quality, desktop computer",Australia,0.18110921681237954,0.16773375067312352
+"video streaming, 720p, smartphone",Italy,0.05811122858145834,0.052241530917899175
+"video conferencing, audio only, desktop computer",Switzerland,0.07557202708827448,0.066245312239265
+"social media, smartphone",Spain,0.02155746503852344,0.019305345780733365
+"video streaming, 480p, television 720p",Australia,0.09787749671823276,0.08982167675081162
+"video streaming, 720p, desktop computer",South Africa,0.2585746420728401,0.2418758540611903
