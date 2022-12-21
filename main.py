@@ -15,7 +15,7 @@ list_of_countries = ['Global', 'Brazil', 'Canada', 'China', 'India', 'United Sta
                      'Switzerland', 'France', 'Denmark', 'Spain', 'Italy', 'Germany', 'Poland',
                      'United Kingdom', 'South Africa', 'Australia', 'Russia']
 
-lca_data = pd.read_csv(r'data\lca_data_digital_content.csv')
+lca_data = pd.read_csv(r'data/lca_data_digital_content.csv')
 
 
 with user_input:
